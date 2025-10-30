@@ -1,0 +1,3 @@
+This project is a simple Logistic Regression model deployed using Streamlit. The app allows users to input feature values and get predictions from the trained model. 
+It includes files like app.py for the interface, model.pkl for the saved model, and requirements.txt for dependencies. You can run it locally or deploy it online through 
+Streamlit Community Cloud by connecting this GitHub repository and clicking Deploy.
